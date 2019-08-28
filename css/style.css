@@ -3,6 +3,10 @@
 /* link the web font used for the level 1 heading here */
 @import url('https://fonts.googleapis.com/css?family=Bellefair');
 /*////////// Global Styles //////////*/
+*{
+	padding: 0;
+	margin: 0;
+}
 
 body {
 	background: #F3EBE9;
